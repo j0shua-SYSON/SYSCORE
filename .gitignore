@@ -1,0 +1,13 @@
+# build output
+/build/
+*.exe
+*.o
+*.obj
+*.a
+
+# editor / OS cruft
+.vscode/
+.idea/
+*.user
+Thumbs.db
+desktop.ini

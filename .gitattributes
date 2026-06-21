@@ -1,0 +1,10 @@
+# Normalize line endings in the repo
+* text=auto
+
+# Keep CI / shell files LF so they run on Linux/msys runners
+*.yml  text eol=lf
+*.yaml text eol=lf
+*.sh   text eol=lf
+
+# Treat images as binary
+*.png binary

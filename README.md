@@ -5,8 +5,7 @@
 **A tiny, modern, AI-powered system monitor for Windows.**
 Always-on-top · semi-transparent · ~1 MB · ~18 MB RAM · zero dependencies.
 
-<!-- once pushed, the live badge is: https://github.com/j0shua-SYSON/SYSCORE/actions/workflows/build.yml/badge.svg -->
-![build](https://img.shields.io/badge/build-passing-brightgreen)
+[![build](https://github.com/j0shua-SYSON/SYSCORE/actions/workflows/build.yml/badge.svg)](https://github.com/j0shua-SYSON/SYSCORE/actions/workflows/build.yml)
 ![license](https://img.shields.io/badge/license-MIT-blue)
 ![platform](https://img.shields.io/badge/platform-Windows%2010%2F11-0078D6)
 ![C++](https://img.shields.io/badge/C%2B%2B-17-00599C)
